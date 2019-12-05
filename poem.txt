@@ -3,5 +3,7 @@ Dragan poem
 yellow
 green
 blue
+red
+brown
 
 these are the colors of the rainbow
